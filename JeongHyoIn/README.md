@@ -33,3 +33,8 @@
     - 신고시 보상금 정책
     - 홈페이지 만족도 설문
     - 마약 유혹 스트레스 확인 https://smore.im/quiz/Kd4DM9muBu
+
+---
+### DAY2
+### 요구사항 명세서 작성 및 와이어프레임 작성  
+![image.png](./image.png)
